@@ -8,3 +8,9 @@ Implemented the KeyListener interface for streamlined user controls and the AWT/
 Instructions:
 1) Download all .java files to the same directory
 2) Run GamePlay.java
+
+Gameplay:
+1) Bounce the ball off the paddle in order to destroy the bricks. 
+2) Move the paddle using the left and right arrow keys. If the ball falls past your paddle, you lose a life. 
+3) You have 7 lives to complete 5 levels. 
+4) Different bricks take different number of hits to destroy: red = 1, orange = 2, green = 3, gray = 5.
